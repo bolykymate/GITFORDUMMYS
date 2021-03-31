@@ -1,0 +1,20 @@
+body {
+    background-color: wheat;
+    font-size: large;
+    color: maroon;
+}
+
+#git {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.eleje {
+    text-align: center;
+}
+
+.kep {
+    width: 400px;
+    height: 200px;
+    float: inherit;
+}
